@@ -6,4 +6,5 @@
 - CHHUOK Laurent
 - FAHIM Nail
 - GARD Léon
+- GUO Igor
 - SUISSA Léanna
